@@ -1,0 +1,28 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Diphylleia&family=Grandiflora+One&family=Lato:ital,wght@0,300;0,400;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+font-family: 'Diphylleia', serif;
+font-family: 'Grandiflora One', serif;
+font-family: 'Lato', sans-serif;
+
+/* Color Theme Swatches in Hex */
+.Neon-light-on-wooden-wall-background.-1-hex { color: #D6ACF2; }
+.Neon-light-on-wooden-wall-background.-2-hex { color: #8850BF; }
+.Neon-light-on-wooden-wall-background.-3-hex { color: #392259; }
+.Neon-light-on-wooden-wall-background.-4-hex { color: #5A378C; }
+.Neon-light-on-wooden-wall-background.-5-hex { color: #190F26; }
+
+/* Color Theme Swatches in RGBA */
+.Neon-light-on-wooden-wall-background.-1-rgba { color: rgba(214, 171, 242, 1); }
+.Neon-light-on-wooden-wall-background.-2-rgba { color: rgba(135, 80, 191, 1); }
+.Neon-light-on-wooden-wall-background.-3-rgba { color: rgba(56, 33, 89, 1); }
+.Neon-light-on-wooden-wall-background.-4-rgba { color: rgba(90, 54, 140, 1); }
+.Neon-light-on-wooden-wall-background.-5-rgba { color: rgba(24, 14, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Neon-light-on-wooden-wall-background.-1-hsla { color: hsla(275, 73, 81, 1); }
+.Neon-light-on-wooden-wall-background.-2-hsla { color: hsla(270, 46, 53, 1); }
+.Neon-light-on-wooden-wall-background.-3-hsla { color: hsla(264, 44, 24, 1); }
+.Neon-light-on-wooden-wall-background.-4-hsla { color: hsla(264, 43, 38, 1); }
+.Neon-light-on-wooden-wall-background.-5-hsla { color: hsla(264, 43, 10, 1); }
